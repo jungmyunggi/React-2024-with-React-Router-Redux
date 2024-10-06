@@ -25,16 +25,16 @@ button:focus {
   outline: none;
 }
 
-header {
+/* header {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   margin-top: 2rem;
   margin-bottom: 2rem;
-}
+} */
 
-header img {
+/* header img {
   object-fit: contain;
   margin-bottom: 2rem;
   width: 11rem;
@@ -66,7 +66,7 @@ header p {
   header h1 {
     font-size: 2.25rem;
   }
-}
+} */
 
 #auth-inputs {
   width: 100%;
@@ -88,7 +88,7 @@ header p {
 .controls input {
 }
 
-label.invalid {
+/* label.invalid {
   color: #f87171;
 }
 
@@ -96,7 +96,7 @@ input.invalid {
   color: #ef4444;
   border-color: #f73f3f;
   background-color: #fed2d2;
-}
+} */
 
 .actions {
   display: flex;
@@ -104,7 +104,7 @@ input.invalid {
   gap: 1rem;
 }
 
-.button {
+/* .button {
   padding: 1rem 2rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -113,11 +113,11 @@ input.invalid {
   background-color: #f0b322;
   border-radius: 6px;
   border: none;
-}
+} */
 
-.button:hover {
+/* .button:hover {
   background-color: #f0920e;
-}
+} */
 
 .text-button {
   color: #f0b322;
